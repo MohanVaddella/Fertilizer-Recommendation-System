@@ -1,4 +1,3 @@
-# SI-GuidedProject-101000-1658898293
 # Fertilizers Recommendation System for Disease Prediction
 
 
@@ -24,19 +23,7 @@
 # Total project Zip:  DUE TO SIZE OF ZIP FILE IS LARGE, SO PUSHED IN TO DRIVE....
 ====> https://drive.google.com/file/d/1tCSigBLNz2ikEGZszEEd4Hj3DKfQl3FX/view?usp=sharing
 
-# Course completion badges earned:
-#
- ╰┈➤ Improving Healthcare: The Role of Cloud Computing:
-        https://www.credly.com/badges/3d1ea3d9-9853-4d67-89df-65cabd418a42/public_url
- 
- ╰┈➤ Getting Started with Enterprise-grade AI:
-        https://www.credly.com/badges/34b6670e-ec78-4c65-b69e-04f2472e55ca/public_url
- 
- ╰┈➤ Getting Started with Enterprise Data Science:
-        https://www.credly.com/badges/5d2beca3-4a74-4fdc-80e5-2241194c5589/public_url
- 
- ╰┈➤ Deep Learning Essentials:
-        https://www.credly.com/badges/0866d836-af76-434b-a066-7ee5155773b7/public_url
+
  
  
   
